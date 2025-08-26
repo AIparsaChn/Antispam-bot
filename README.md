@@ -8,8 +8,12 @@ This project represents an example of Redis database for Telegram bots. This pro
 
 ## How to run?
 To use this project you just need:
-1. add your token to config.py.
-2. then run the main.py file on your local machine or server.
+1. Install the requirements using the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. add your token to config.py.
+3. then run the main.py file on your local machine or server.
 
 and that's all.
 
